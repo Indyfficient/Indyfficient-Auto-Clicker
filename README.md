@@ -19,7 +19,7 @@ To ensure the integrity of the downloaded files, you can verify the MD5 checksum
 2. To verify on Windows:
    - Open Command Prompt
    - Navigate to the folder containing the file
-   - Run: `certutil -hashfile Indyfficient Auto-Clicker.exe MD5`
+   - Run: `certutil -hashfile "Indyfficient Auto-Clicker.exe" MD5`
 3. Compare the output with the MD5 checksum provided above.
 
 ## License
