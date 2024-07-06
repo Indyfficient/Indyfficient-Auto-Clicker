@@ -304,8 +304,6 @@ def generate_signature():
         except Exception as e:
             return f"Unable to generate signature: {str(e)}"
 
-# Rest of your code remains the same...
-
 if __name__ == '__main__':
     # Print the script's "signature"
     print(f"Script Signature: {generate_signature()}")
