@@ -15,7 +15,7 @@ Custom auto clicker adding the ability to set a duration for how long to hold th
 
 To ensure the integrity of the downloaded files, you can verify the MD5 checksum:
 
-1. MD5 Checksum: `c3a09a19fa58375bdc667233af0a315d`
+1. MD5 Checksum: `975abb469d1ff7ad2b1b445074a349a0`
 2. To verify on Windows:
    - Open Command Prompt
    - Navigate to the folder containing the file
